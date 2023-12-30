@@ -1,1 +1,2 @@
-temp-unit: C
+application.theme:
+  temp-unit: C
